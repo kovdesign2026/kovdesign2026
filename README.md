@@ -1,54 +1,57 @@
 # Kevin Ospina
 
-Desarrollador de software especializado en desarrollo web, sistemas embebidos e integración de hardware.
+Ingeniero en sistemas especializado en desarrollo de software, aplicaciones web y sistemas embebidos.
 
 ---
 
-## Perfil
+## Perfil Profesional
 
-Ingeniero en sistemas enfocado en la construcción de soluciones tecnológicas reales.
-Experiencia en desarrollo de aplicaciones, sistemas IoT y automatización con microcontroladores.
+Desarrollador enfocado en la creación de soluciones tecnológicas que integran software y hardware.
+Experiencia en desarrollo web moderno, sistemas IoT y automatización con microcontroladores.
 
 ---
 
 ## Tecnologías
 
-### Lenguajes y herramientas
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge\&logo=python)
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge\&logo=css3)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge\&logo=react)
-![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge\&logo=arduino)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
 ---
 
 ## Experiencia
 
-* Desarrollo de aplicaciones web modernas
+* Desarrollo de aplicaciones web con interfaces modernas
 * Implementación de sistemas IoT con ESP32
 * Integración de sensores y automatización
-* Programación de sistemas embebidos con Arduino
+* Programación de sistemas embebidos en C y Arduino
 
 ---
 
 ## Portafolio
 
-Repositorio de proyectos:
-https://github.com/kovdesign
+<p align="center">
+  <a href="https://github.com/kovdesign">
+    <img src="https://img.shields.io/badge/Ver%20Proyectos-000000?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kovdesign2026&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kovdesign2026&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovdesign2026&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovdesign2026&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
@@ -69,4 +72,4 @@ https://github.com/kovdesign
 
 ## Enfoque
 
-Desarrollo sistemas funcionales, escalables y orientados a resultados, combinando software y hardware.
+Desarrollo sistemas escalables, eficientes y orientados a resultados, integrando ingeniería de software con tecnologías embebidas.
