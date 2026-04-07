@@ -1,66 +1,72 @@
 # Kevin Ospina
 
-Desarrollador enfocado en software, desarrollo web y sistemas embebidos.
-Trabajo en la creación de soluciones que integran código y hardware para resolver problemas reales.
+Desarrollador de software especializado en desarrollo web, sistemas embebidos e integración de hardware.
 
 ---
 
-## Sobre mí
+## Perfil
 
-Soy ingeniero en sistemas con interés en el desarrollo de aplicaciones modernas y proyectos de robótica.
-Me especializo en integrar tecnologías de software con dispositivos electrónicos como ESP32 y Arduino.
+Ingeniero en sistemas enfocado en la construcción de soluciones tecnológicas reales.
+Experiencia en desarrollo de aplicaciones, sistemas IoT y automatización con microcontroladores.
 
 ---
 
 ## Tecnologías
 
-### Lenguajes
+### Lenguajes y herramientas
 
-* Python
-* C
-* JavaScript
-* HTML5
-* CSS3
-
-### Desarrollo Web
-
-* React
-
-### Robótica y Electrónica
-
-* ESP32
-* Arduino Uno
-* Sensores (DHT11, LM35, entre otros)
-* Automatización y sistemas IoT
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge\&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge\&logo=react)
+![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge\&logo=arduino)
 
 ---
 
-## Proyectos
+## Experiencia
 
-* Aplicaciones web con interfaces modernas
-* Sistemas de monitoreo con ESP32
+* Desarrollo de aplicaciones web modernas
+* Implementación de sistemas IoT con ESP32
 * Integración de sensores y automatización
-* Proyectos con Arduino orientados a control y electrónica
+* Programación de sistemas embebidos con Arduino
 
 ---
 
 ## Portafolio
 
-Puedes ver mis proyectos aquí:
+Repositorio de proyectos:
 https://github.com/kovdesign
 
 ---
 
 ## Estadísticas
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kovdesign2026&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovdesign2026&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kovdesign2026&theme=github-compact&hide_border=true" />
+</p>
+
 ---
 
 ## Contacto
 
-Email:[https://kevin.ospina.villada.01@gmail.com]
+[kevintmono56@gmail.com](mailto:kevintmono56@gmail.com)
 
 ---
 
 ## Enfoque
 
-Desarrollo soluciones funcionales, escalables y orientadas a resultados, combinando software y hardware para crear sistemas completos.
+Desarrollo sistemas funcionales, escalables y orientados a resultados, combinando software y hardware.
