@@ -8,7 +8,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Ingeniero+en+Sistemas+%F0%9F%92%BB;Desarrollo+Web+Moderno+%F0%9F%8C%90;Sistemas+IoT+%26+Embebidos+%F0%9F%94%A7;ESP32+%26+Arduino+Enthusiast+%F0%9F%A4%96;Soluciones+Escalables+%26+Eficientes+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Ingeniero+en+Sistemas;Desarrollo+Web+Moderno;Sistemas+IoT+%26+Embebidos;ESP32+%26+Arduino+Enthusiast;Soluciones+Escalables+%26+Eficientes)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-## 🚀 Sobre mí
+## Sobre mi
 
 </div>
 
@@ -26,17 +26,17 @@ class KevinOspina:
     def __init__(self):
         self.nombre     = "Kevin Ospina Villada"
         self.rol        = "Ingeniero en Sistemas"
-        self.ubicacion  = "Colombia 🇨🇴"
+        self.ubicacion  = "Colombia"
         self.email      = "kovdesign2026@gmail.com"
         self.enfoque    = [
             "Desarrollo Web Moderno",
             "Sistemas Embebidos",
             "IoT con ESP32",
-            "Automatización & Sensores"
+            "Automatizacion & Sensores"
         ]
 
     def filosofia(self):
-        return "Sistemas escalables, eficientes y orientados a resultados 🎯"
+        return "Sistemas escalables, eficientes y orientados a resultados"
 ```
 
 <br/>
@@ -46,7 +46,7 @@ class KevinOspina:
 <!-- STATS SECTION -->
 <div align="center">
 
-## 📊 Estadísticas GitHub
+## Estadisticas GitHub
 
 <br/>
 
@@ -71,25 +71,24 @@ class KevinOspina:
 <!-- TECH STACK -->
 <div align="center">
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnologico
 
-### 💻 Desarrollo Web
+### Desarrollo Web
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### 🔧 Lenguajes
+### Lenguajes
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-### 🤖 Embebidos & IoT
+### Embebidos & IoT
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-FF6B35?style=for-the-badge&logo=iot&logoColor=white" />
 
 </div>
 
@@ -100,29 +99,29 @@ class KevinOspina:
 <!-- EXPERIENCE -->
 <div align="center">
 
-## 💼 Áreas de Expertise
+## Areas de Expertise
 
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🌐-Desarrollo%20Web-A78BFA?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Desarrollo%20Web-A78BFA?style=flat-square" /><br/>
       <sub>Interfaces modernas, componentes reutilizables y aplicaciones SPA con React</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🔌-Sistemas%20IoT-61DAFB?style=flat-square" /><br/>
-      <sub>Implementación de soluciones IoT con ESP32, sensores y comunicación en tiempo real</sub>
+      <img src="https://img.shields.io/badge/Sistemas%20IoT-61DAFB?style=flat-square" /><br/>
+      <sub>Implementacion de soluciones IoT con ESP32, sensores y comunicacion en tiempo real</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/⚙️-Sistemas%20Embebidos-00979D?style=flat-square" /><br/>
-      <sub>Programación de microcontroladores en C y Arduino para automatización</sub>
+      <img src="https://img.shields.io/badge/Sistemas%20Embebidos-00979D?style=flat-square" /><br/>
+      <sub>Programacion de microcontroladores en C y Arduino para automatizacion</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🔗-Integración%20HW%2FSW-FF6B6B?style=flat-square" /><br/>
-      <sub>Integración de hardware y software para soluciones tecnológicas completas</sub>
+      <img src="https://img.shields.io/badge/Integracion%20HW%2FSW-FF6B6B?style=flat-square" /><br/>
+      <sub>Integracion de hardware y software para soluciones tecnologicas completas</sub>
     </td>
   </tr>
 </table>
@@ -134,7 +133,7 @@ class KevinOspina:
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-## 📈 Actividad de Contribuciones
+## Actividad de Contribuciones
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kovdesign2026&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true" />
 
@@ -147,7 +146,7 @@ class KevinOspina:
 <!-- TROPHIES -->
 <div align="center">
 
-## 🏆 Logros
+## Logros
 
 <img src="https://github-profile-trophy.vercel.app/?username=kovdesign2026&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
@@ -160,7 +159,7 @@ class KevinOspina:
 <!-- CONTACT -->
 <div align="center">
 
-## 📬 Contacto & Portafolio
+## Contacto & Portafolio
 
 <br/>
 
@@ -171,7 +170,7 @@ class KevinOspina:
 <br/>
 
 > *"Desarrollo sistemas escalables, eficientes y orientados a resultados,*
-> *integrando ingeniería de software con tecnologías embebidas."*
+> *integrando ingenieria de software con tecnologias embebidas."*
 
 </div>
 
