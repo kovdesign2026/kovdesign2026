@@ -1,7 +1,7 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/onepiece/images/a/af/Monkey_D._Luffy_Anime_Dos_Años_Después_Infobox.png/revision/latest?cb=20200616015904&path-prefix=es" />
+<img src="[https://static.wikia.nocookie.net/onepiece/images/a/af/Monkey_D._Luffy_Anime_Dos_Años_Después_Infobox.png/revision/latest?cb=20200616015904&path-prefix=es](https://i.pinimg.com/originals/9d/bd/9e/9dbd9e807e4d498b454d120c82086f43.gif)" />
 
 </div>
 
