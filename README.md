@@ -1,7 +1,7 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kevin%20Ospina%20Villada&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20%26%20Embedded%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://static.wikia.nocookie.net/onepiece/images/a/af/Monkey_D._Luffy_Anime_Dos_Años_Después_Infobox.png/revision/latest?cb=20200616015904&path-prefix=es" />
 
 </div>
 
